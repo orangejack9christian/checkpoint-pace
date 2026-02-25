@@ -1,0 +1,7 @@
+# Openplanet/local artifacts
+*.zip
+
+# OS/editor
+Thumbs.db
+.DS_Store
+.vscode/

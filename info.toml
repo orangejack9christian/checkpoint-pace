@@ -1,0 +1,8 @@
+[meta]
+name = "Checkpoint Pace"
+author = "erice + Codex"
+category = "Race"
+version = "0.1.0"
+
+[script]
+optional_dependencies = [ "MLFeedRaceData" ]
